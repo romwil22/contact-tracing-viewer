@@ -1,0 +1,10 @@
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\contact-tracing-viewer\cs_contact_tracing_view_data\cs_contact_tracing_view_data\bin\Debug\cs_contact_tracing_view_data.exe.config
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\contact-tracing-viewer\cs_contact_tracing_view_data\cs_contact_tracing_view_data\bin\Debug\cs_contact_tracing_view_data.exe
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\contact-tracing-viewer\cs_contact_tracing_view_data\cs_contact_tracing_view_data\bin\Debug\cs_contact_tracing_view_data.pdb
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\contact-tracing-viewer\cs_contact_tracing_view_data\cs_contact_tracing_view_data\obj\Debug\cs_contact_tracing_view_data.csproj.AssemblyReference.cache
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\contact-tracing-viewer\cs_contact_tracing_view_data\cs_contact_tracing_view_data\obj\Debug\cs_contact_tracing_view_data.Form1.resources
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\contact-tracing-viewer\cs_contact_tracing_view_data\cs_contact_tracing_view_data\obj\Debug\cs_contact_tracing_view_data.Properties.Resources.resources
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\contact-tracing-viewer\cs_contact_tracing_view_data\cs_contact_tracing_view_data\obj\Debug\cs_contact_tracing_view_data.csproj.GenerateResource.cache
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\contact-tracing-viewer\cs_contact_tracing_view_data\cs_contact_tracing_view_data\obj\Debug\cs_contact_tracing_view_data.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\contact-tracing-viewer\cs_contact_tracing_view_data\cs_contact_tracing_view_data\obj\Debug\cs_contact_tracing_view_data.exe
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\contact-tracing-viewer\cs_contact_tracing_view_data\cs_contact_tracing_view_data\obj\Debug\cs_contact_tracing_view_data.pdb
